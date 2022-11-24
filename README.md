@@ -1,5 +1,5 @@
 # portfolio
-Vitajte na mem profilu <br>
+Vitajte na mem profilu v GitHub <br>
 tady jsou informace o mém koníčkách 
 
 fotky: mám rád fotceni a tady jsou některé příklady které jsem vyfotil
