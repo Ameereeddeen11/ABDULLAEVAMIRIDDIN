@@ -1,4 +1,4 @@
-# portfolio
+# Portfolio
 Vitajte na mem profilu v GitHub <br>
 tady jsou informace co jsou v těch složkach a take par informace o mych koničkach :
     <strong>fotky:</strong> mám rád fotceni a tady jsou některé příklady které jsem vyfotil<br>
